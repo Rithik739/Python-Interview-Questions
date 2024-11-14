@@ -122,8 +122,17 @@ print(total)
 ##for k,v in people.items():
 ##   for k1,v1 in v.items():
 ##      print(k1)
-      
 
+output:
+John
+name
+age
+sex
+name
+age
+sex
+      
+//////////////////////////////////////////////////////////////////////////////////
 
 ##Liverpool = {
 ##    'Keepers': {'Loris Karius': 1, 'Simon Mignolet': 2, 'Alex Manninger': 3},
@@ -136,6 +145,20 @@ print(total)
 ##    for k1, v1 in v.items():
 ##        print(v1)
 ##
+
+output:
+1
+2
+3
+3
+4
+5
+6
+7
+8
+9
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 
 s =12345
 n =0
